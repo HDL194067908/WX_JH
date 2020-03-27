@@ -1,0 +1,15 @@
+<!--pages/find/details_view2/zhongxibu/zhongxibu.wxml-->
+<view id = 'box'>
+  <view class="title"> 
+    <text>西总布胡同</text>
+  </view>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/193b970f37524cbba8b56db341f1a489.jpeg"></image>
+  西总布胡同位于东城区东南部，东起朝阳门南小街，西至东单北大街，南邻新开路胡同，北靠外交部街胡同，属建国门街道办事处管辖。西总布胡同，明朝称总铺胡同，属明时坊，因总铺衙署设于此而得名。清乾隆时称总部胡同，属镶白旗，宣统时以朝阳门南小街为界，分称东西总布胡同。“文化大革命”中一度改称瑞金路八条，走过北京那么多条胡同，西总布胡同市首条无车辆停放胡同，使得胡同格外整洁干净，摄影：宣小胖胖
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/5dc687c6f046456d9b3428f9fa55b3b1.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/ef44abc3dc5c4f37a647b77c08ba2375.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/3da62cc2e1174b998d08e80cd78b7a20.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/d4e4825639da4164be5c4d88cf427aa3.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/4997da1aa7ed42748f14b0d943a1b31f.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/6bc3ac07e5dd4148be007ab9e9ff0c0a.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191121/fcfd25b27fbf418482630a7b17c9d551.jpeg"></image>
+</view>

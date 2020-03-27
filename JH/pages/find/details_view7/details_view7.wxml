@@ -1,0 +1,78 @@
+<!--pages/find/details_view7/details_view7.wxml-->
+<view>
+  <view class='Hutong'>
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://n1-q.mafengwo.net/s12/M00/63/50/wKgED1voVpKAN88CAAGg67BlRBE00.jpeg?imageView2%2F2%2Fw%2F1360%2Fq%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">谈到“喝东西”这件事，我们的传统饮品“茶”似乎总有些被冷落。但是在北京出现了一家名叫“器...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' >
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s12/M00/63/51/wKgED1voVpKAPfHYAALeB9bVGTQ46.jpeg?imageView2%2F2%2Fw%2F1360%2Fq%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">这是一家名气颇大的老字号，不管在任何攻略中总有它的身...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' >
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s11/M00/74/15/wKgBEFrA7SCAPDdVAADAOVfAwlY43.jpeg?imageView2%2F2%2Fw%2F1360%2Fq%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">老北京味最地道的地方是哪儿？那必然是胡同了。走进四九城...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' >
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://loftcn.com/wp-content/uploads/2015/08/20150814_151738_001.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">该项目位于北京传统的胡同区，其结构区域是一个“L”型的院子，450平米。院内有五座旧的传统房屋和几处临时的钢板房...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' >
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://5b0988e595225.cdn.sohucs.com/images/20170920/055108a9b6bc465cb7ff169d0c2b583b.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">关于胡同里开的一切静美的地方，我都感兴趣，每当在点评上挖到一个没去过的店，总是身未动，心...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' >
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://5b0988e595225.cdn.sohucs.com/images/20170920/ca91402c7b9c422e96cfaae1b88c74d0.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">关游客，甚至北京人也很少走入的小胡同，前门往西往南不远处，如果过去还可以逛逛杨梅竹斜街，铁树斜街，嗯，当年这可是...</text>
+   </view>
+ </view>
+</view>

@@ -1,0 +1,14 @@
+<view id = 'box'>
+  <view class="title"> 
+    <text> 烂漫胡同</text>
+  </view>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/c4f8d6864ae349f3a43f459a22099e69.jpeg"></image>
+  烂漫胡同，一个浪漫的名字，位于菜市口平原里牛街，胡同深处，湖南会馆 坐落在这，毛主席1920年曾在此居住，并召开湖南旅京各界驱逐军阀张敬尧大会，1984年公布为北京市市级文物保护单位。烂漫胡同地处繁华地段，整条胡同干净整洁，走在胡同中，可感受老北京的生活状态。摄影：宣小胖胖
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/81a6f21a0bdd46408db2745839e9b452.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/c48422055c03496a98e348f1c4393dc9.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/78ddf9fdeb08463f9026a76dbb2e2b4e.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/3bbeab51f9224a92b2e33530dfc8fe36.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/4e90cf4f6f4d413080577d09ef5f0653.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/7c322df6db8e4a47ad19e71043f70857.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191113/5d40e717f43f4340a058433237b6608b.jpeg"></image>
+</view>

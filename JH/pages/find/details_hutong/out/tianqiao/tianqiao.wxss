@@ -1,0 +1,6 @@
+/* pages/find/details_hutong/out/tianqiao/tianqiao.wxss */
+.a{
+  font-size: 1.7rem;
+  font-weight: 600;
+  padding-left: 40%;
+}

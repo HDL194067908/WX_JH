@@ -1,0 +1,36 @@
+#btn_view{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; 
+  margin-right: 10rpx;
+  margin-left: 10rpx;
+}
+.btn{
+  width: 100%;
+  height:300rpx;
+  text-align: center;
+  line-height: 300rpx;
+  font-size:1.5rem; 
+  color: rgb(247, 244, 245);
+  font-family:‘Franklin Gothic Medium’, ‘Arial Narrow’, Arial, sans-serif;
+  font-weight: 900;
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+}
+
+.Hutong{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 250rpx;
+  background-color: rgba(226, 217, 205, 0.301); 
+  border-bottom-width: 0.1rpx;
+  border-bottom-style: solid;
+}
+.text{
+  display: flex;
+  flex-direction: column;
+  width:60%;
+  height:250rpx;
+  
+}

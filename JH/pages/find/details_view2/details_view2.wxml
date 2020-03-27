@@ -1,0 +1,102 @@
+<!--pages/find/details_view2/details_view2.wxml-->
+
+<!--pages/find/details_view/details_view.wxml-->
+<view>
+  <view class='Hutong' bindtap="suoyi">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://5b0988e595225.cdn.sohucs.com/images/20180323/0488f97bc3024a119284c4cfc188699b.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同纪录，南锣鼓巷边上一条鲜为人知的胡同——蓑衣胡同 </text>
+   </view>
+
+ </view>
+
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="shijin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://5b0988e595225.cdn.sohucs.com/images/20191119/cfd55e0b2a6747c3a0882c1ac7a0fbab.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">
+北京胡同记录，湿井胡同，统计住户数量只有8户</text>
+   </view>
+ </view>
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="qijin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://5b0988e595225.cdn.sohucs.com/images/20191117/17db43b7e1b5442bb90f3c0cb397f221.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同记录，七井胡同，一条由水井来命名的胡同</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="zhongxibu">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://5b0988e595225.cdn.sohucs.com/images/20191121/193b970f37524cbba8b56db341f1a489.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同记录，西总布胡同，整条胡同没有车辆停放</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="yunju">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1758447002,997665791&fm=173&app=25&f=JPEG?w=640&h=426&s=863AD5A30C1287ED1605BCA003001000' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同记录，云居胡同，前门大街一条安静的胡同</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="ganjin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://5b0988e595225.cdn.sohucs.com/images/20191112/f9225a466eaf449f8e5424cdff5d0d06.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同记录，甘井胡同，整条胡同现基本无人居住</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="lanman">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://5b0988e595225.cdn.sohucs.com/images/20191113/c4f8d6864ae349f3a43f459a22099e69.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同记录，烂漫胡同，湖南会馆在这条胡同里</text>
+   </view>
+ </view>
+</view>
+
+
+
+

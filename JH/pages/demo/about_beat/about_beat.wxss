@@ -1,0 +1,23 @@
+/* pages/find/about_beat/about_beat.wxss */
+#style{
+  display: flex;
+  flex-direction: row;
+  margin: 25rpx;
+}
+.btn{
+  font-size: 0.5rem;
+}
+#cameraman{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.cameramanInfo{
+  display: flex;
+  flex-direction: column;
+  width: 200rpx;
+  height: 240rpx;
+  text-align: center;
+  margin: 10px;
+}
+

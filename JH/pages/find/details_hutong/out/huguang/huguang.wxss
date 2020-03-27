@@ -1,0 +1,6 @@
+/* pages/find/details_hutong/out/huguang/huguang.wxss */
+.a{
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding-left: 5%;
+}

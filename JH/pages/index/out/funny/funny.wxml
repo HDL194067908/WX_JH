@@ -1,0 +1,87 @@
+<!--pages/index/out/funny/funny.wxml-->
+<view class="box">
+  <view class="title">
+    <text>在这条北京胡同落幕之前，我们和一个美国人看遍了它所有的高潮</text>
+  </view>
+  
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/e0a559999f4242c69cfc7d56767925aa_th.png"></image>
+  </view>
+  <view>
+    <text>△
+    最上瘾的旅行短视频丨让平淡的生活撒点野
+酋长住的那条方家胡同要整改了。
+</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/8fe1ce5f84df47acba99df0ee8bdd537_th.png"></image>
+  </view>
+  <view>
+    <text>38岁的酋长如果是中国人的话，早就被父母逼着买房、生孩子、朝九晚五的工作。但酋长却一直独自生活在中国，他的家人在美国，妻子在日本，酋长和妻子约定每三个月见一次面，他去日本或是她来中国。家人也从来没有干涉过他的生活，酋长就这样怡然自得的“混”在胡同里。</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/bd3378e7d46844028df05320da536088_th.png"></image>
+  </view>
+  <view>
+    <text>▲酋长和他的好朋友
+方家胡同，不单有中国最市井的胡同文化，还有形形色色的外国人，酋长喜欢方家胡同的东西合璧，更喜欢方家胡同的包容气质。他可以如鱼得水般的自动切换，前脚还在阴凉地儿跟大爷们下棋，后脚就能跟来往的外国游客喝上一杯酒唱上一段rap。
+</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/a8404d755d0e4f69bd36fd7144cff66d_th.png"></image>
+  </view>
+  <view>
+    <text>▲害羞的酋长
+身为外教老师的酋长，在不上课的时候，喜欢骑着他的小三轮走街串巷的串胡同，当然他也有自己的小据点——cooper&looper美式古董店。
+这里对于酋长来说简直就是童年记忆的天堂，这个店主和酋长一样是一个复古怀旧的帅哥，店里珍藏着无数连美国人看了都想收藏的老宝贝。最早的美国MLB职业棒球联赛辛辛那提红人队的棒球棍；30、40年代的美式老海军木柜；30年代的美国Holophane（哈洛芬）路灯；还有更多的复古小玩具、小物件，它们经过几代人的流转，依然保留了下来。
+</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/6d7285a6708b4f569cd209443cad2b9b_th.png"></image>
+  </view>
+  <view>
+    <text>▲老版红人队的球棍</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/2c265835bf17465c9393bdc78525507e_th.png"></image>
+  </view>
+  <view>
+    <text>▲美式古董店
+有些东西，也许是一个人的垃圾，但却可能是另一个人的珍藏。
+这里，每一件东西都是独一无二的，在工业流水作业还没那么发达的年代，一件手工做成的物品能用好久，坏了破了就修修补补，而不是像现在坏了就扔掉。每一件老物件所存留的记忆，是时间和潮流所不能磨灭的。
+对酋长来说，喜欢这里的原因有很多，也许是跟古董店老板的志同道合，也许是这些美式老物件勾起酋长对美国家乡的记忆，但归根结底，这里给了酋长自由回忆想象思考的空间。
+</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/b2613b6c175043e086103fe26b99440d_th.png"></image>
+  </view>
+  <view>
+    <text>▲酋长和店长
+    别看酋长在中国生活了这么久，他依然最爱的还是小时候在美国生活时汉堡、汽水的味道。而方家胡同里，有一家全北京酋长认为最地道、最像小时候那种味道的汉堡店——was park汉堡店。</text>
+  </view>
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/f3ab9d4623e84f10a0abbf86d5df3267_th.png"></image>
+  </view>
+  <view>
+    <text>这家汉堡店店面很小，汉堡里的配菜你可以自己搭配，迷倒酋长的是汉堡里溢满肉汁的肉饼，一大口咬下去，肉汁都要流下来的感觉，就好像让酋长回到了美国，配上他小时候最爱的樱桃味儿汽水，满口都是家乡的味道。
+</text>
+  </view>
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/8e0958da17e74585bc4715dbbea6ffcb_th.png"></image>
+  </view>
+  <view>
+    <text>▲来5个汉堡
+酋长想家的时候，就会点一个汉堡一瓶汽水来吃。小时候酋长的妈妈不让他喝饮料，长大之后的酋长虽然早已经过了爱喝汽水的年纪，但这一口也许是他安慰想家之心的唯一方法。</text>
+  </view>
+
+  <view>
+    <image src="http://img.mp.sohu.com/upload/20170608/9f92a381962d421bbe1091b030b9f16a_th.png"></image>
+  </view>
+  
+</view>

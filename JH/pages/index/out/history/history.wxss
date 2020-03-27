@@ -1,0 +1,20 @@
+/* pages/index/out/history/history.wxss */
+.title{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom-width: 0.1rpx;
+  border-bottom-style: solid;
+  border-bottom-color: #f7f2f2;
+  padding-bottom: 20rpx;
+}
+.item{
+  padding: 10rpx;
+}
+.title_item{
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+image{
+  margin: 10rpx;
+}

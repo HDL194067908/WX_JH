@@ -1,0 +1,43 @@
+/* pages/demo/question/question.wxss */
+radio{
+    width: 38rpx;
+}
+ 
+radio .wx-radio-input{
+    border-radius: 50%; 
+    width: 28rpx;
+    height: 28rpx;
+}
+ 
+
+radio .wx-radio-input.wx-radio-input-checked::before{
+    border-radius: 50%;
+    width: 44rpx; 
+    height: 44rpx;
+    line-height: 44rpx;
+    text-align: center;
+    font-size: 26rpx;
+    color:#fff; 
+    background: #2facff;
+    border-color: #2facff;
+
+}
+.content{
+text-align: center;
+font-weight: 900;
+margin-top: 50rpx;
+font-size: 50rpx;
+}
+.que{
+margin-top: 70rpx;
+margin-left: 15rpx;
+}
+page{ 
+  background-size:100% 100%; 
+  background-color: #ebe8e4;
+ }
+ .j{
+   padding-left: 100rpx;
+   padding-right: 100rpx;
+   margin-top: 20rpx;
+ }

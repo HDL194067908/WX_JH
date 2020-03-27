@@ -1,0 +1,19 @@
+<!--pages/find/details_view3/out/one/one.wxml-->
+<view class="a">
+<text class="title">胡同小骑行</text>
+<text>                  
+行前准备:
+如果来 北京 旅行，那一定不能错过 北京 的胡同如果在 北京 工作，怎能不来一次胡同的骑行之旅对于我这个方向感为零的呆瓜来说，骑行似乎就是一场噩梦，但一想到路途中的刺激，小心脏就扑通扑通的停不下来。既然放不下，为何不追随自己的内心，走你。要玩儿，就要玩儿的彻底，不能用高德地图导航，所以周五晚上特定去新华书店买了一本 北京 的地图，同时也准备了一些如何辨别方向的小攻略。</text>
+
+<view>
+<image src='http://p1-q.mafengwo.net/s10/M00/F4/FB/wKgBZ1o-Yv2ARKh8AAn1Ghm-X5U01.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:500rpx;" ></image></view>
+<text>一切准备就绪了，那就开始吧，扫了辆摩拜，打开地图，嗖嗖的就开始今天的胡同骑行之旅啦。先贴一张今天的骑行轨迹图</text>
+<view>
+<image src='http://p1-q.mafengwo.net/s10/M00/F5/29/wKgBZ1o-Y3-APSIGAAGl18LW8m813.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:1000rpx;" ></image></view>
+<text>从中关村东路出发，沿着灶君庙路，南礼士路一路南下，而后在西便门外大街向东转，进入宣武门西大街。。。。。。老舍茶馆在前门遇到了老舍茶馆，激动得路边停靠，慢慢品位。</text>
+<view>
+<image src='http://b1-q.mafengwo.net/s10/M00/F4/FC/wKgBZ1o-Yv6AY2AtAAvLwysxFVQ65.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:800rpx;" ></image></view>
+<text>东郊民巷东郊民巷全场3公里，是老 北京 最长的一条胡同，在旧 中国 ，是外国的使馆区。</text>
+<view>
+<image src='http://p1-q.mafengwo.net/s10/M00/F4/FE/wKgBZ1o-YwCAGA_DAAlPR6e9xd492.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:800rpx;" ></image></view>
+</view>

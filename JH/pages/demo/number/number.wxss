@@ -1,0 +1,40 @@
+/* pages/demo/number/number.wxss */
+
+page{ 
+  background-size:100% 100%; 
+  background-color: #fa899e;
+ }
+
+.content{
+  margin-top: 100rpx;
+  margin-bottom: 100rpx;
+  text-align: center;
+  font-weight: 900; 
+  color: white;
+  font-size: 50rpx;
+}
+.b{
+ display: flex;
+ flex-direction: row;
+ position: relative; 
+ background-color:white;
+  margin: 70rpx;
+  height: 80rpx;
+
+ 
+}
+
+#enter{
+    min-height: 2rem;
+}
+#icon_sear{
+  position: absolute;
+  padding: 15rpx;
+  right: 0rpx;
+}
+
+.d{
+  padding: 20rpx;
+  width: 100%;
+  height: 600rpx;
+}

@@ -1,0 +1,10 @@
+/* pages/index/out/courtyard/courtyard.wxss */
+.title{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom-width: 0.1rpx;
+  border-bottom-style: solid;
+  border-bottom-color: #f7f2f2;
+  padding-bottom: 20rpx;
+}

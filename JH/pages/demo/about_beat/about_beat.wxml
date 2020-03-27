@@ -1,0 +1,50 @@
+<!--pages/find/about_beat/about_beat.wxml-->
+<view>
+  <view id="style">
+    <text >目标价位:</text>
+    <button class="btn">0-100</button>
+    <button class="btn">101-200</button>
+    <button class="btn">301-400</button>
+  </view>
+
+  <view id="style">
+    <text >风格:</text>
+    <button class="btn">小清新</button>
+    <button class="btn">复古</button>
+    <button class="btn">文艺</button>
+    <button class="btn">时尚</button>
+  </view>
+
+  <view id="cameraman">
+    <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/52ce1c8696dc400daeac6d8f16876c84!400x400.jpeg'  style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+
+    <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/577a4f928c6e4d2c89e4524cd20b42ee!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+
+    <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/e8bb9933f9c54aebac51ccbd8106981c!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+    
+   <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/884362669f8943da83a39e301ebcfbb9!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+
+    <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/1734d90bb4614425983926811fca5427!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+
+    <view class="cameramanInfo" bindtap="info">
+      <image src='https://img2.woyaogexing.com/2019/12/16/1252e44fb84b4925921d14445f36f310!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+      <text>摄像者</text>
+    </view> 
+
+  </view>
+</view>

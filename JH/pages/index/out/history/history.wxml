@@ -1,0 +1,177 @@
+<!--pages/index/out/history/history.wxml-->
+<view class="box">
+  <view class="title">最有京味儿的七个胡同，感受一下老北京的生活习惯</view>
+
+  <view class="item">
+    <text>\n胡同，是城市的脉络，\n</text>
+    <text>\n它虽然不是北京的全部，\n</text>
+    <text>\n但是当代北京的珍贵的饰品之一。\n</text>
+    <text>\n在帝都，\n</text>
+    <text>\n它更是咱普通老百姓生活的地界儿，\n</text>
+    <text>\n每条胡同都有着自己的故事，\n</text>
+    <text>\n只有耐心细细品味过后，\n</text>
+    <text>\n才能体会它的魅力。\n</text>
+  </view>
+  
+  <view class="item">
+    <view class="title_item">
+      <text>东棉花胡同</text>
+    </view>
+    <text>\n进南锣，东边的第三条胡同就是了，\n</text>
+    <text>\n东棉花胡同里藏着许多四合院，\n</text>
+    <text>\n很多小院都是带点现代味的房子。\n</text>
+    <text>\n这里虽无大的景点，\n</text>
+    <text>\n却有着幽深宁静的小景致。\n</text>
+    <image src="http://t12.baidu.com/it/u=3370327790,1748869098&fm=173&app=25&f=JPEG?w=588&h=378&s=9384B044D623D8EC603974030300C0C4"></image>
+    <text>\n向里望去，落落的四合院，\n</text>
+    <text>\n院里大大小小的搭着几间红砖小厨房，\n</text>
+    <text>\n东西南北四面各住一户人家，\n</text>
+    <text>\n 院里搭有葡萄架，\n</text>
+    <text>\n一串串紫红的沉甸甸的葡萄， \n</text>
+    <text>\n垂得让人眼馋。\n</text>
+    <text>\n抬头瞧那房檐下嵌着的档板，\n</text>
+    <text>\n不宽的面上显现着已斑驳的漆画。\n</text>
+    <image src="http://t10.baidu.com/it/u=2857626288,2602852556&fm=173&app=25&f=JPEG?w=640&h=807&s=91B056952E27D6DE863125A00300A050"></image>
+    <text>\n 在东棉花胡同里，\n</text>
+    <text>\n有一座清末将军凤山的宅子， \n</text>
+    <text>\n 这座宅子已经看不到当年奢华，\n</text>
+    <text>\n 但却留下一座老门楼，\n</text>
+    <text>\n可以说是北京城雕刻最繁缛的砖雕拱门. \n</text>
+    <image src="http://t10.baidu.com/it/u=2857626288,2602852556&fm=173&app=25&f=JPEG?w=640&h=807&s=91B056952E27D6DE863125A00300A050"></image>
+    <image src="http://t11.baidu.com/it/u=858321574,2373180192&fm=173&app=25&f=JPEG?w=304&h=450&s=2AE3DA0762FFBBDE06519D850300E0C3"></image>
+    <text>\n 很普通却也让人舒心的一条胡同，\n</text>
+    <text>\n著名的央戏就在这里。 \n</text>
+  </view>
+  
+<view class="item">
+<view class="title_item">
+      <text>板厂胡同、炒豆胡同</text>
+      <image src="http://t10.baidu.com/it/u=136846452,1786657082&fm=173&app=25&f=JPEG?w=640&h=436&s=FE120FC088C3C2DE051C71000300A090"></image>
+    </view>
+    
+    <text>\n进南锣鼓巷南口东面，\n</text>
+    <text>\n第一条胡同就是炒豆胡同，\n</text>
+    <text>\n很安静的一条小胡同，\n</text>
+    <text>\n一眼望去浓浓的生活气息。\n</text>
+    <image src="http://t10.baidu.com/it/u=3962826639,2367099756&fm=173&app=25&f=JPEG?w=640&h=427&s=FE818043541FE7DE588D748A03008010"></image>
+    <text>\n虽然南锣鼓巷商业气息渐浓，\n</text>
+    <text>\n但藏在里层胡同最斑驳的京味儿。\n</text>
+    <text>\n透过斜斜窄窄的巷子，\n</text>
+    <text>\n还是蜿蜒着渗透出来。\n</text>
+    <image src="http://t12.baidu.com/it/u=1300339994,480482494&fm=173&app=25&f=JPEG?w=640&h=341&s=272A65E80E110DDE171C6C02030070D2"></image>
+  </view>
+
+  <view class="item">
+    <view class="title_item">
+      <text>黑芝麻胡同</text>
+      <image src="http://t11.baidu.com/it/u=1124456272,1235582279&fm=173&app=25&f=JPEG?w=640&h=426&s=8A9007CF02932DD40AA4A4850300B093"></image>
+    </view>
+    
+    <text>\n位于南锣古巷的西面，\n</text>
+    <text>\n很朴素的胡同，\n</text>
+    <text>\n走到里面可以看到那种门前种花，\n</text>
+    <text>\n房上有藤的老北京胡同特色，\n</text>
+    <text>\n漫步在这里，\n</text>
+    <text>\n会莫名产生一种时空穿越的错觉。\n</text>
+    <image src="http://t11.baidu.com/it/u=2888927227,975516100&fm=173&app=25&f=JPEG?w=640&h=361&s=A8FA7C855AF38BD64484A427030010C2"></image>
+    <text>\n想到老北京的血液，\n</text>
+    <text>\n还流淌在这些未被开发的胡同里，\n</text>
+    <text>\n心理自然涌起一丝暖意。\n</text>
+    <text>\n这里有清末四川总督，\n</text>
+    <text>\n兵部尚书奎俊的府邸。\n</text>
+    <image src="http://t10.baidu.com/it/u=2491092135,2489337434&fm=173&app=25&f=JPEG?w=300&h=450&s=8F004183704D32FEECD5FD9F0300C081"></image>
+  </view>
+
+  <view class="item">
+    <view class="title_item">
+      <text>史家胡同</text>
+    </view>
+    
+    <text>\n胡同两头是喧闹的现代社会，\n</text>
+    <text>\n胡同里是慢慢悠悠的旧时代，\n</text>
+    <text>\n灰墙、红大门的四合院儿，\n</text>
+    <text>\n史家胡同小学在胡同里。\n</text>
+    <image src="http://t10.baidu.com/it/u=1268467671,800782803&fm=173&app=25&f=JPEG?w=500&h=289&s=F32421E01E5B3ADC463D7508030030D2"></image>
+    <image src="http://t12.baidu.com/it/u=2265749867,1689473589&fm=173&app=25&f=JPEG?w=508&h=351&s=9F022FC88CDAE5DE93F1040A0300B0D3"></image>
+    <text>\n这里有着浓浓文化艺术气息，\n</text>
+    <text>\n不光来自史家胡同小学，\n</text>
+    <text>\n胡同中人民艺术剧院的宿舍里，\n</text>
+    <text>\n德艺双馨的老艺术家们，\n</text>
+    <text>\n更是给这条普通的胡同增加了文化的厚度。\n</text>
+    <image src="http://t12.baidu.com/it/u=480631961,1503071443&fm=173&app=25&f=JPEG?w=640&h=330&s=A4AAFFF903E0B7531A58641E03005046"></image>
+    <image src="http://t11.baidu.com/it/u=3264697285,3991056648&fm=173&app=25&f=JPEG?w=612&h=322&s=25725DCB38499E57C16D9C1D030080C1"></image>
+    <text>\n民国才女凌叔华的宅院，\n</text>
+    <text>\n适合天气好的午后或清晨，\n</text>
+    <text>\n静静的看看展览，\n</text>
+    <text>\n感受一下老北京的胡同建筑布局和韵味。\n</text>
+    <image src="http://t10.baidu.com/it/u=1027718712,2713413700&fm=173&app=25&f=JPEG?w=472&h=315&s=F33110C720AF98FA4A2901A10300F011"></image>
+</view>
+  <view class="item">
+    <view class="title_item">
+      <text>东交民巷</text>
+    </view>
+    
+    <text>\n北京最长的胡同，曾经著名的使馆区，\n</text>
+    <text>\n风格各异的建筑、错落有致，\n</text>
+    <text>\n是北京惟一一处洋房林立的特色街巷。\n</text>
+    <image src="http://t11.baidu.com/it/u=3308649196,1634534879&fm=173&app=25&f=JPEG?w=640&h=426&s=8DD26C8098531BED03B09C140100A090"></image>
+    <text>\n这里的很多建筑，\n</text>
+    <text>\n不一定在东交民巷胡同的主路上，\n</text>
+    <text>\n而是散布在整个区域中，\n</text>
+    <text>\n如果想要彻底的了解，\n</text>
+    <text>\n最好骑一辆28车，慢慢的游览。\n</text>
+    <image src="http://t12.baidu.com/it/u=1208751755,1727888828&fm=173&app=25&f=JPEG?w=496&h=267&s=8400A6F01A9128CE64B8A4220300F0D3"></image>
+
+    <text>\n走在这条路上，\n</text>
+    <text>\n看到不同建筑的使馆，\n</text>
+    <text>\n感受这条胡同的文化带来多元化。\n</text>
+    <image src="http://t12.baidu.com/it/u=3887386133,2259616677&fm=173&app=25&f=JPEG?w=640&h=374&s=8503AEFB5E6388CE06A4C6220300B055"></image>
+    <text>\n有人说这里没有景点，\n</text>
+    <text>\n是的，幸好，\n</text>
+    <text>\n这条路的幽静一直到今天没有被破坏。\n</text>
+    <image src="http://t10.baidu.com/it/u=1286904369,596107963&fm=173&app=25&f=JPEG?w=640&h=427&s=490D2BD35A3385FD0A05D1080300E0C1"></image>
+     <text>\n小时候的北京人一到国庆，\n</text>
+    <text>\n肯定会去天安门广场，\n</text>
+    <text>\n而现在如果天儿好，\n</text>
+    <text>\n会选择溜溜东交民巷，\n</text>
+    <text>\n走到东口向南一拐，\n</text>
+    <text>\n还有小时候最爱的三宝乐面包房。\n</text>
+    <image src="http://t11.baidu.com/it/u=883411714,1529316703&fm=173&app=25&f=JPEG?w=432&h=255&s=D56504E665539F96812B913403001019"></image>
+  </view>
+
+ <view class="item">
+    <view class="title_item">
+      <text>雨儿胡同</text>
+    </view>
+    
+    <text>\n这名儿听起来像是个小名，\n</text>
+    <text>\n透着亲切，自带灵气儿。\n</text>
+    <image src="http://t11.baidu.com/it/u=3135990742,1234554758&fm=173&app=25&f=JPEG?w=640&h=382&s=9EB2F5A55A527FCC74AC603303009093"></image>
+    <text>\n雨儿胡同东入口并不十分明显，\n</text>
+    <text>\n由于这里与南锣鼓巷相交，\n</text>
+    <text>\n开着许多样式各异的特色店铺，\n</text>
+    <text>\n若不加留意，\n</text>
+    <text>\n就会错过了夹杂在商铺林立中的雨儿胡同。\n</text>
+    <image src="http://t12.baidu.com/it/u=1447395980,929184213&fm=173&app=25&f=JPEG?w=640&h=378&s=CFC2D6015C80064B001CED9A0300F093"></image>
+
+    <text>\n入口一侧树立着木质的小牌匾，\n</text>
+    <text>\n另一侧的灰墙之上悬挂着两块标识牌，\n</text>
+    <text>\n一块红底白字为“雨儿胡同”，\n</text>
+    <text>\n一块蓝底白字为中英文“齐白石旧居纪念馆”。\n</text>
+    <image src="http://t12.baidu.com/it/u=92986508,2903481065&fm=173&app=25&f=JPEG?w=640&h=425&s=75004BB74CD27FED0A9CDD0E0300E091"></image>
+  </view>
+
+ <view class="item">
+   <view class="title_item">
+     <text>圆恩寺胡同</text>
+     <image src="http://t11.baidu.com/it/u=3958457098,2081119345&fm=173&app=25&f=JPEG?w=640&h=431&s=696822D1CA71F7DE4624C70A0300E0D6"></image>
+   </view>
+   <text>\n 圆恩寺胡同位于东城区西北部，\n</text>
+   <text>\n 东起交道口南大街，西至南锣鼓巷，\n</text>
+   <text>\n 圆恩寺胡同因圆恩寺得名南邻秦老胡同。\n</text>
+   <image src="http://t12.baidu.com/it/u=539155919,2569716892&fm=173&app=25&f=JPEG?w=640&h=428&s=60D21CC59661C54D5E2169330300C012"></image>
+   <text>\n 胡同13号为茅盾故居，\n</text>
+   <text>\n 院子中矗立着茅盾先生的半身塑像，\n</text>
+   <text>\n 周围的房间是茅盾生平展览。\n</text>
+ </view>
+</view>

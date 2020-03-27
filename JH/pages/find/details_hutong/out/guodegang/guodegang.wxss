@@ -1,0 +1,6 @@
+/* pages/find/details_hutong/out/guodegang/guodegang.wxss */
+.a{
+  font-size: 1.7rem;
+  font-weight: 600;
+  padding-left: 15%;
+}

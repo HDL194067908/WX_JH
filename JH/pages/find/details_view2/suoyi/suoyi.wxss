@@ -1,0 +1,9 @@
+/* pages/find/details_view2/suoyi/suoyi.wxss */
+#box{
+  margin: 10rpx;
+}
+.title{
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+}

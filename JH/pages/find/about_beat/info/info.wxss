@@ -1,0 +1,45 @@
+/* pages/find/about_beat/info/info.wxss */
+#box{
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx;
+}
+#contain{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 250rpx;
+  
+}
+#img{
+  width: 40%;
+}
+#content{
+   display: flex;
+   flex-direction: column;
+   margin-left: 25rpx;
+   width: 60%;
+}
+#opusBox{
+  display: flex;
+  flex-direction: column;
+  margin-top: 25rpx;
+  margin-bottom: 25rpx;
+}
+#opus{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#imgs{
+  margin-top: 25rpx;
+  margin-right: 25rpx;
+  width: 200rpx;
+  height: 200rpx;
+}
+#comment{
+  margin-top: 25rpx;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

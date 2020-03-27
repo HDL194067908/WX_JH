@@ -1,0 +1,34 @@
+<!--pages/find/details_view3/out/five/five.wxml-->
+<view class="a">
+<text class="title">北京骑行路线</text>
+<text>
+帝都从2016年就开始普及共享单车，已经普及到三步一小黄、五步一小橘的程度。撇开经常免费的各种单车活动。在帝都骑行一天，也就是十块钱的事儿，马上就到春天啦，给大家写几条适合春天，休闲骑行的线路~哒哒哒、我先上个北京市区地图~</text>
+<view>
+<image src='http://b1-q.mafengwo.net/s10/M00/61/44/wKgBZ1jba56AOzBgAAEn-CVo29Y92.jpeg?imageView2%2F2%2Fw%2F691%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL24xLXEubWFmZW5nd28ubmV0L3MxMS9NMDAvOTEvNzAvd0tnQkVGcF9faTZBUHYtZEFBQUwxMzg3aE0wNjk5LnBuZw%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F11' style="width:100%;height:800rpx;" ></image></view>
+<text>一、基本推荐线路为四条：
+
+1、长安街沿线：即地铁一号线附近。
+此线路适合来北京玩得游客。或者常年工作没时间细细体会北京的上班族。全程约12公里，不停留的话1小时，停停走走拍照吃饭小逛的话建议4小时。
+
+线路：
+国贸-----永安里-----东单----王府井----天安门东----天安门西-----西单-----复兴门------木樨地-----军事博物馆。
+
+这条线路首先有很宽敞的长安街，有适合骑行的自行车道，这条路上，你将看到繁华的国贸高楼大厦，永安里秀水，王府井，故宫，国家大剧院，首都剧院，西单图书大厦，军博的首都博物馆，军博附近正好去玉渊潭赏樱，东单王府井西单美食之多就不用细数，累了随时停车吃饭。
+
+推荐美食：东单小胡同里的【日昌餐厅】。西单小胡同的【来涮蜀串串香】。
+虽然人多，但是玉渊潭的花都开好了呀，你看不看它都在那里哈哈。
+
+
+2、“北京跑”半马线路+奥森
+
+哈哈去年4,17参加了北京跑的半马，今年报名采取抽签形式，还不知道自己能不能幸运参赛，我就分享一下线路图，比较北京跑组委会对线路的研究也是挖空心思。我们骑行踏青不妨借鉴一下。
+
+此线路适合想去踏青，骑行时间较长，体力较好的蜂蜂。压缩半马的绕绕弯，加上奥森公园里环园，全长约25公里，建议骑行3小时。
+
+线路：
+天安门---东长安街----西二环----东直门----安定门----安外大街----奥体中心----鸟巢----奥林匹克森林公园
+
+这段线路能够领略大北京的变化风貌，从宽阔的长安街，到东二环的现代繁华，到北二环的古朴胡同到北三环的空旷，到奥体中心附近的各种建筑到奥森的花开绿荫。</text>
+<view>
+<image src='http://b1-q.mafengwo.net/s10/M00/61/50/wKgBZ1jba7CAL4U5AADODbjxDUE583.png?imageView2%2F2%2Fh%2F512%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL24xLXEubWFmZW5nd28ubmV0L3MxMS9NMDAvOTEvNzAvd0tnQkVGcF9faTZBUHYtZEFBQUwxMzg3aE0wNjk5LnBuZw%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F11' style="width:100%;height:800rpx;" ></image></view>
+</view>

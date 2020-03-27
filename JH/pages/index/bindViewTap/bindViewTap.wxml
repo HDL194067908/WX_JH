@@ -1,0 +1,76 @@
+<!--pages/index/bindViewTap/bindViewTap.wxml-->
+<view class="box">
+  <view class="top">
+    <view class="titleTop">
+      <text><text>关于北京八大胡同，你需要知道这些</text></text>
+    </view>
+
+    <view>
+      <text decode="true">&nbsp;&nbsp;&nbsp;八大胡同指的是西珠市口大街以北、铁树斜街以南的一片胡同区。\n</text>
+      <text decode="true">&nbsp;&nbsp;&nbsp;由西往东依次为：百顺胡同、胭脂胡同、韩家潭、 陕西巷、石头胡同、王广福斜街（现棕树斜街）、朱家胡同、李纱帽胡同（现小力胡同）</text>
+    </view>
+  </view>
+
+  <view class="item">
+    <view class="title">
+      <text>百顺胡同</text>
+    </view>
+    <view class="content">
+      <text decode="true">&nbsp;&nbsp;&nbsp;百顺胡同历史悠久，在明朝的时候因种有柏树而得名柏树胡同。清朝初年取谐音“百事顺遂”更名为百顺胡同。\n</text>
+<text decode="true">&nbsp;&nbsp;&nbsp;百顺胡同的东口是 陕西 巷，并行的北面是韩家胡同（韩家潭），南面与胭脂胡同相连直通两广大街。徽班进京的时候，多位京剧名人居住在百顺胡同。
+</text>
+    </view>
+    <view class="img">
+      <image src="/tabbar/baishun.jpg"></image>
+    </view>
+  </view>
+
+ <view class="item">
+    <view class="title">
+      <text>大外廊营胡同</text>
+    </view>
+    <view class="content">
+      <text decode="true">&nbsp;&nbsp;&nbsp;凡40岁以上的 中国 人都知道现代样板戏《沙家浜》。谭派第五代传人、谭鑫培的曾孙——谭元寿曾经经典演绎了戏中男主人公——指导员郭建光。大外廊营1号就是谭家6代人曾经生活的地方</text>
+    </view>
+    <view class="img">
+      <image src="/tabbar/dawailang.jpg"></image>
+    </view>
+  </view>
+
+  <view class="item">
+    <view class="title">
+      <text>铁树斜街</text>
+    </view>
+    <view class="content">
+      <text decode="true">&nbsp;&nbsp;&nbsp;北京 的胡同，大都 四平 八稳。但从前门大街走进大栅栏，一直向西穿过煤市街，却是一条斜街，就是铁树斜街。</text>
+    </view>
+    <view class="img">
+      <image src="/tabbar/tieshuxiejie.jpg"></image>
+    </view>
+  </view>
+
+  <view class="item">
+    <view class="title">
+      <text>陕西巷</text>
+    </view>
+    <view class="content">
+      <text decode="true">&nbsp;&nbsp;&nbsp;陕西巷有着悠久历史，明初，大量商户云集前门外地区，招商居货，此巷聚集了许多 陕西 籍的木材商囤积木料，故名 陕西 巷。随着近现代 北京 城南文化的兴旺，这里也成为 北京 南城最繁华的地点之一。</text>
+    </view>
+    <view class="img">
+      <image src="/tabbar/xiaxixiang.jpg"></image>
+    </view>
+  </view>
+  
+  <view class="end">
+    <view class="title">
+      <text>结语</text>
+    </view>
+    <view class="content">
+      <text decode="true">&nbsp;&nbsp;&nbsp;如今的八大胡同早已不再是当年的会馆戏楼和烟花柳巷，而是化为了历史的符号，静静地伫立在那里。只有路边上与众不同的二层小楼及其门楣楹联，还残存着当年的依稀印迹。这里既是 北京 目前保留最系统、最完整的一座民间历史博物馆，同时也是 北京 平民甚至贫民最原生态的生活区。拥挤的胡同、杂乱的街道和破败的院落；私搭乱建的棚子、横七竖八的电线和棋牌室哗啦哗啦的麻将声，破败的画面已经很难和曾经的灯红酒绿、纸醉金迷联系在一起。旧时风云消散，咫尺天涯，蓦然回首，空留白发。</text>
+    </view>
+    <view class="img">
+      <image src="/tabbar/end.jpg"></image>
+    </view>
+
+  </view>
+</view>

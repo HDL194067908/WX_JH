@@ -1,0 +1,16 @@
+<!--pages/find/details_view3/out/two/two.wxml-->
+<view class="a">
+<text class="title">北京胡同骑行</text>
+<text>
+上周，几个大学时的哥们儿从山东骑车来北京找我玩耍，连续几天充满罪恶的酒池肉林之后，他们突然说要进行一次老北京胡同深度游，我想了想，制定好了骑行路线。
+    周六清晨，我们骑车穿宝钞胡同到鼓楼后面的姚记炒肝店用过早饭，看看时间尚早，南锣的很多店铺肯定还没有开业。于是我们决定就先到国子监附近转悠。这些家伙和我一样全是非常大路的乐天派，在公园门口基本上是看一眼就满足的，所以雍和宫、国子监、孔庙我们都是一带而过。</text>
+<view>
+<image src='http://p1-q.mafengwo.net/s6/M00/94/BA/wKgB4lIyfvqAKyH6AAFvua0vQ_Q50.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:500rpx;" ></image></view>
+<view>
+<image src='http://b1-q.mafengwo.net/s6/M00/94/BA/wKgB4lIyfvqAWo3eAAC7kxIEPEs10.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:500rpx;" ></image></view>
+过成街的时候，我恍惚想起初中时曾和朋友来这里的一家工艺品店制作毛猴。毛猴是一种用蝉蜕和玉兰花骨朵制作的老北京传统工艺品，结合其他道具，可以制作出各种各样有趣的猴子造型。价格不贵，30元一个，我问他们玩不玩，没想到这几个粗手粗脚的老爷们儿竟然对这个还挺感兴趣。在老板的悉心指导下，他们的成果竟然还都看得过去，真是让我大跌眼镜。
+    做好毛猴之后，我们准备重返南锣。记得交道口南大街后圆恩寺胡同里的某个宅院曾是蒋介石的北京行辕，还有很多王府宅第、名人故居都集中在那里。不出所料，这群家伙果然喜欢挖掘这些藏在胡同犄角旮旯里的奇闻轶事，一路听他们侃侃而谈，我竟有些插不上话。后来，这一代诸如绮园、矛盾故居、洪承畴故居，全都没被他们的嘴巴放过。
+ <view>
+<image src='http://b1-q.mafengwo.net/s6/M00/94/BB/wKgB4lIyfvuATFfSAADtFs5rkSI06.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:500rpx;" ></image></view> 
+南锣鼓巷及周边区域曾是元大都的市中心，明清时期则更是一处大富大贵之地，这里的街街巷巷挤满了达官显贵，王府豪庭数不胜数，直到清王朝覆灭后，南锣鼓巷的繁华也跟着慢慢落幕。在老胡同被拆之前，保护古城的提案得到重视，凭借较为完好的元代里坊格局、明清名人府邸，南锣鼓巷得以幸存。近几年又有先见之明的人看到商机，租下沿街民房，开起了风格百变的个性店铺，元朝古巷新旧混血，就此重生，全球游客都爱来此“迷失北京”。
+</view>

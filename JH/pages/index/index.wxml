@@ -1,0 +1,71 @@
+<view class="Title">
+  <view>
+     <view>
+        <view class="weui-search-bar" bindtap="bindsearch">
+            <view class="weui-search-bar__form">
+            <!-- 搜索框 -->
+                <view class="weui-search-bar__box">
+                    <icon class="weui-icon-search_in-box" type="search" size="14" ></icon>
+                    <text  class="weui-search-bar__input">搜索</text>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+</view>
+<swiper indicator-dots="true" autoplay="true" interval="2000" duration="1000" indicator-active-color="pink" indicator-color="white">
+  <block wx:for="{{background}}" wx:key='unique'>
+    <swiper-item>
+      <image bindtap="bindViewTap" class="swiper-p" src="{{item}}" />
+    </swiper-item>
+  </block>
+</swiper>
+<view class="selection">
+  <view class="header">
+    <text>胡同小知识</text>
+
+  </view>
+</view>
+<view class="content">
+  <view class="content-item" bindtap="orgin">
+    <image src="https://i01piccdn.sogoucdn.com/18d587312f2b9712" ></image>
+    <view class="content-item-text">    
+      <text>胡同的由来</text>
+    </view>
+  </view>
+
+  <view class="content-item" bindtap="courtyard">
+    <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=728655670,3004040854&fm=26&gp=0.jpg"></image>
+    <view class="content-item-text">    
+      <text>胡同和四合院</text>
+    </view>
+  </view>
+
+  <view class="content-item" bindtap="funny">
+    <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573839239060&di=4001d745070b4a0f6ff3d1435ba4282e&imgtype=jpg&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D301700906%2C3047748170%26fm%3D214%26gp%3D0.jpg"></image>
+    <view class="content-item-text">    
+      <text>胡同趣事</text>
+    </view>
+  </view>
+
+  <view class="content-item"  bindtap="history">
+    <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574434254&di=d2b8370f75119bdd26a4f8bcdcfb5dd6&imgtype=jpg&er=1&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn%2Fw640h425%2F20171211%2Fd03b-fypnsip6542639.jpg"></image>
+    <view class="content-item-text">    
+      <text>胡同的历史</text>
+    </view> 
+  </view>
+  <view class="content-item" bindtap="photo">
+    <image src="http://img3.imgtn.bdimg.com/it/u=3585657421,1009723650&fm=26&gp=0.jpg"></image>
+    <view class="content-item-text">    
+      <text>胡同老照片</text>
+    </view> 
+  </view>
+  <view class="content-item" bindtap="celebrity">
+    <image src="../../tabbar/top4.jpg"></image>
+    <view class="content-item-text">    
+      <text>胡同与名人</text>
+    </view> 
+  </view>
+
+
+</view>

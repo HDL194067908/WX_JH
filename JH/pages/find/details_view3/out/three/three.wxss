@@ -1,0 +1,10 @@
+/* pages/find/details_view3/out/three/three.wxss */
+.a{
+  margin: 10rpx;
+}
+.title{
+font-size: 1.3rem;
+  font-weight: 600;
+  padding-left: 15%;
+ 
+}

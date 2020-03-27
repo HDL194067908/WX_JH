@@ -1,0 +1,74 @@
+<view id="index">
+  <view class="index_top">
+   <view class="imgbox"> <image bindtap="bindnum" src="../../tabbar/sz.png" mode="cover" class="imag"  mode="scaleToFill"></image> </view>
+    <view class="text"> <text  bindtap="bindnum">数字Soul</text></view>
+  </view>
+  
+  <view class="index_top">
+   <view class="imgbox"> <image bindtap="bindViewTap1" src="../../tabbar/cs.png" mode="cover" class="imag"  mode="scaleToFill"></image></view>
+   <view class="text"> <text  bindtap="bindViewTap1">京胡小题库</text></view>
+ 
+  </view>
+
+  <view class="index_top">
+   <view class="imgbox"><image bindtap="bindViewTap" src="../../tabbar/qy.png" mode="cover" class="imag"  mode="scaleToFill"></image></view>
+   <view class="text"><text  bindtap="bindViewTap">穷游之旅</text></view>
+  </view>
+  
+</view>
+
+
+<view class="paihang">
+  <text>北京胡同人气关键字</text>
+</view>
+<view class="key">
+  <view class="row_top">
+     <button class="hot" bindtap="one">苦尽甘来</button>
+     <view class="edge">
+        <button class="edg1">小酌怡情</button>
+        <button class="edg2"> 修身养性</button>
+     </view>
+  </view>
+  <view class="row">
+    <view>
+       <button class="left" id="art"> 雅俗共赏</button>
+    </view>
+    <view>
+      <button class="right" id="star">追星同款</button>
+    </view>   
+  </view>
+
+  <view class="row">
+    <view>
+       <button class="left" id="novel">文化荟萃</button>
+    </view>
+    <view>
+      <button class="right" id="write" bindtap="about_beat">相约而至</button>
+    </view>   
+  </view>
+
+  <view class="row">
+    <view>
+       <button class="left" id="s_fool">减肥必备</button>
+    </view>
+    <view>
+      <button class="right" id="l_fool">人间美味</button>
+    </view>   
+  </view>
+
+  <view class="row">
+    <view>
+       <button class="left" id="crosstalk">幽默风趣</button>
+    </view>
+    <view>
+      <button class="right" id="homestay">体验生活</button>
+    </view>   
+  </view>
+
+</view> 
+
+
+
+
+
+

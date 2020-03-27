@@ -1,0 +1,50 @@
+<!--pages/find/about_beat/info/info.wxml-->
+<view id="box">
+
+ <view id="contain">
+  <view id="img">
+    <image src='https://img2.woyaogexing.com/2019/12/16/52ce1c8696dc400daeac6d8f16876c84!400x400.jpeg' style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>
+  </view>
+
+  <view id="content"> 
+    <text style="margin-bottom:15rpx;">姓名：***</text>
+    <text style="font-size:0.8rem">简介：*#*#*#*##*#*#*#*##*#**#*##*#*##*##*##**</text>
+  </view> 
+
+ </view>
+
+ <view id="opusBox">
+   <text>作品  &Opus</text>
+   <view id="opus">
+      <view id="imgs">
+        <image  style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>   
+       </view>
+
+       <view id="imgs">
+        <image  style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>   
+       </view>
+
+       <view id="imgs">
+        <image  style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>   
+       </view>
+
+       <view id="imgs">
+        <image  style="background-color:#a1a1a1;width:100%;height:100%;" mode="scaleToFill"></image>   
+       </view>
+   </view>
+ </view>
+
+ <view>
+   <text>评论区 &Comment</text>
+   <view id="comment">
+     <text>评论者1：</text>
+     <text>内容</text>
+   </view>
+
+   <view id="comment">
+     <text>评论者2：</text>
+     <text>内容</text>
+   </view>
+
+ </view>
+</view>

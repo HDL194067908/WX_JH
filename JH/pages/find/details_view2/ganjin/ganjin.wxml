@@ -1,0 +1,15 @@
+<!--pages/find/details_view2/ganjin/ganjin.wxml-->
+<view id = 'box'>
+  <view class="title"> 
+    <text>湿井胡同</text>
+  </view>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/f9225a466eaf449f8e5424cdff5d0d06.jpeg"></image>
+  甘井胡同位于北京市宣武区东北部，东起前门大街，西至煤市街。明代成书的《京师五城坊巷胡同集》记为“干井儿胡同”。清光绪年间，改称甘井胡同沿用至今。因为胡同改造，整条胡同已无人居住，现存一个老院子，依稀可以看见往昔的身影，摄影：宣小胖胖
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/88ed82e1d7f744ed9ebe7fcf71033c04.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/242fc1c05afd4e97a89530a1137cbc65.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/4d2f241ba93f418ab8da0634adae0bf0.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/2ced5caad2a34465a72fa33b8e2a731e.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/20d74886be054f31a40a0879d304740e.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191112/92b8961c5f1f41df8bccb8de82b493e8.jpeg"></image>
+</view>
+

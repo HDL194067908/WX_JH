@@ -1,0 +1,77 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/getUserInfo/getUserInfo",
+    "pages/demo/demo",
+    "pages/find/find",
+    "pages/my/my",
+    "pages/index/search/search",
+    "pages/demo/number/number",
+    "pages/find/details_view/details_view",
+    "pages/index/out/origin/origin",
+    "pages/index/out/history/history",
+    "pages/index/out/courtyard/courtyard",
+    "pages/index/out/funny/funny",
+    "pages/index/out/photo/photo",
+    "pages/index/out/celebrity/celebrity",
+    "pages/find/details_hutong/out/san_qin/san_qin",
+    "pages/index/bindViewTap/bindViewTap",
+    "pages/find/details_hutong/out/gulouxi/gulouxi",
+    "pages/find/details_hutong/out/guangdelou/guangdelou",
+    "pages/find/details_hutong/out/guodegang/guodegang",
+    "pages/find/details_hutong/out/huguang/huguang",
+    "pages/find/details_hutong/out/laose/laose",
+    "pages/find/details_hutong/out/tianqiao/tianqiao",
+    "pages/find/details_view3/details_view3",
+    "pages/find/details_view3/out/one/one",
+    "pages/find/details_view3/out/two/two",
+    "pages/find/details_view3/out/three/three",
+    "pages/find/details_view3/out/four/four",
+    "pages/find/details_view3/out/five/five",
+    "pages/demo/one/one",
+    "pages/demo/about_beat/about_beat",
+    "pages/demo/about_beat/info/info",
+    "pages/find/details_view7/details_view7",
+    "pages/demo/question/question"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTitleText": "京胡",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false,
+    "backgroundColor": "red"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "selectedColor": "#ff5777",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "tabbar/首页.png",
+        "selectedIconPath": "tabbar/首页D.png"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "text": "发现",
+        "iconPath": "tabbar/发现.png",
+        "selectedIconPath": "tabbar/发现D.png"
+      },
+      {
+        "pagePath": "pages/demo/demo",
+        "text": "活动",
+        "iconPath": "tabbar/活动.png",
+        "selectedIconPath": "tabbar/huodong2.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "tabbar/我的.png",
+        "selectedIconPath": "tabbar/我的D.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

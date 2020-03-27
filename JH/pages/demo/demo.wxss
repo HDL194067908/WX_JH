@@ -1,0 +1,149 @@
+#index{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 250rpx;
+}
+.index_top{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: 100%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.imgbox{
+  height: 80%;
+}
+.imag{
+ width:100%;
+ height:100%;
+ 
+}
+.text{
+  text-align: center;
+  padding-top:10rpx; 
+  margin-bottom: 10rpx;
+}
+
+.paihang{
+  font-weight: 900;
+  text-align: center;
+  height: 100rpx;
+  line-height: 100rpx;
+  background-color: pink;
+  color: white;
+  margin: 10rpx;
+  border-radius:5%;
+}
+
+.key{
+  padding: 0;
+  margin: 10rpx;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.row_top{
+  display: flex;
+  flex-direction: row;
+  height: 400rpx;
+  margin: 5rpx;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  height: 200rpx;
+  margin: 5rpx;
+}
+.hot{
+  position: absolute;
+  left: 0;
+  height: 400rpx;
+  width: 400rpx;
+  line-height: 400rpx;
+  color: white;
+  background-image: url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1673313790,2118091264&fm=15&gp=0.jpg);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-right: 10rpx;
+}
+.edge{
+  position: absolute;
+  right: 0;
+  width: 330rpx;
+  height: 400rpx;
+  
+}
+.edg1{
+  height: 200rpx;
+  line-height: 200rpx;
+  background-image: url(http://img2.imgtn.bdimg.com/it/u=2408494621,2965009199&fm=26&gp=0.jpg);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.edg2{
+  height: 200rpx;
+  line-height: 200rpx;
+  background-image: url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3508901048,1001587912&fm=15&gp=0.jpg);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.left{
+  position: absolute;
+  left: 0;
+  width: 380rpx;
+  height:  200rpx;
+  line-height: 200rpx;
+  
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.right{
+  position: absolute;
+  right: 0;
+  width: 350rpx;
+  height:  200rpx;
+  line-height: 200rpx;
+  
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+#art{
+  background-image: url(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1798955591,3403021517&fm=26&gp=0.jpg);
+}
+#star{
+  background-image: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2555125125,3334807206&fm=26&gp=0.jpg);
+}
+#novel{
+  background-image: url(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2479811039,2347293833&fm=26&gp=0.jpg);
+}
+#write{
+  background-image: url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4042770977,3423567313&fm=26&gp=0.jpg);
+}
+#s_fool{
+  background-image: url(https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2652492119,1431573437&fm=26&gp=0.jpg);
+}
+#l_fool{
+  background-image: url(https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=877785150,1331534434&fm=26&gp=0.jpg);
+}
+#crosstalk{
+  background-image: url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3827783320,4208870275&fm=15&gp=0.jpg);
+}
+#homestay{
+  background-image: url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1885768018,434608588&fm=11&gp=0.jpg);
+}

@@ -1,0 +1,25 @@
+/* pages/find/details_view4/details_view4.wxss */
+.Hutong{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 250rpx;
+  background-color: rgba(226, 217, 205, 0.301); 
+  border-bottom-width: 0.1rpx;
+  border-bottom-style: solid;
+  border-bottom-color:gray;
+}
+.title{
+  width:60%;
+  height:250rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.content{
+  font-size:1rem;
+  color:black;
+  
+  }

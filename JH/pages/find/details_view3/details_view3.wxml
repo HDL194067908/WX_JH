@@ -1,0 +1,82 @@
+<!--pages/find/details_view3/details_view3.wxml-->
+<view>
+  <view class='Hutong' bindtap="one">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s10/M00/F4/FB/wKgBZ1o-Yv2ARKh8AAn1Ghm-X5U01.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">胡同小骑行 | 如果来北京旅行，那一定不能错过北京的胡同</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="two">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s6/M00/94/BA/wKgB4lIyfvqAKyH6AAFvua0vQ_Q50.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">胡同骑游记 | 南锣鼓巷的清晨</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="three">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s6/M00/16/D8/wKgB4lOWtPCAUBryAAV25HP8dvU30.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京游之骑行 | 紫禁城中轴线</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="four">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s4/M00/3E/65/wKgByU_Bmu-Yni_5AAIJZyD-tIs94.jpeg?imageView2%2F2%2Fw%2F600%2Fq%2F90%7CimageMogr2%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京胡同一日游
+</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="five">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s10/M00/61/44/wKgBZ1jba56AOzBgAAEn-CVo29Y92.jpeg?imageView2%2F2%2Fw%2F691%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL24xLXEubWFmZW5nd28ubmV0L3MxMS9NMDAvOTEvNzAvd0tnQkVGcF9faTZBUHYtZEFBQUwxMzg3aE0wNjk5LnBuZw%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F11' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">胡同骑游攻略 | 北京骑行路线
+</text>
+   </view>
+ </view>
+ 
+</view>
+<view>
+  <view class='Hutong' bindtap="">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://pic1.zhimg.com/v2-df5df55f6d3536e5a540fc1c7abaa3b0_1200x500.jpg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">帝京的胡同多,有名的胡同三千六,没名的胡同赛牛毛.胡同里的棋局
+</text>
+   </view>
+ </view>
+ 
+</view>

@@ -1,0 +1,52 @@
+<!--pages/demo/question/question.wxml-->
+
+<view class="content" >
+<text>京胡小题库</text>
+</view>
+<view  class="que">
+     <label >1.你认为的最长的胡同是？</label>
+     <radio-group class="item-right radio-group" bindchange="changeSex">
+          <label class="radio" wx:for="{{items}}">
+               <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+          </label>
+     </radio-group>
+</view>
+
+<view class="que" >
+     <label >2.你认为的年代最久的胡同是？</label>
+     <radio-group class="item-right radio-group" bindchange="changeSex">
+          <label class="radio" wx:for="{{items1}}">
+               <radio value="{{item1.name}}" checked="{{item1.checked}}"/>{{item.name}}
+          </label>
+     </radio-group>
+</view>
+
+<view class="que" >
+     <label >3.烟袋斜街为什么叫烟袋斜街？</label>
+     <radio-group class="item-right radio-group" bindchange="changeSex">
+          <label class="radio" wx:for="{{items2}}">
+               <radio value="{{item2.name}}" checked="{{item2.checked}}"/>{{item.name}}
+          </label>
+     </radio-group>
+</view>
+
+<view class="que" >
+     <label >4.你认为的年代最窄的胡同是？</label>
+     <radio-group class="item-right radio-group" bindchange="changeSex">
+          <label class="radio" wx:for="{{items1}}">
+               <radio value="{{item3.name}}" checked="{{item3.checked}}"/>{{item.name}}
+          </label>
+     </radio-group>
+</view>
+
+<view class="que" >
+     <label >5.你心中最美的胡同？</label>
+     <radio-group class="item-right radio-group" bindchange="changeSex">
+          <label class="radio" wx:for="{{items1}}">
+               <radio value="{{item4.name}}" checked="{{item4.checked}}"/>{{item.name}}
+          </label>
+     </radio-group>
+</view>
+<view class="j">
+<button>提交</button>
+</view>

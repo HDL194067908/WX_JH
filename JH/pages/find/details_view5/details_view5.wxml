@@ -1,0 +1,100 @@
+
+<view>
+  <view class='Hutong' bindtap="suoyi">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s13/M00/27/87/wKgEaVzgj3-AUaTEAA4RNgf3raw69.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">周末去哪｜拍照别去南锣鼓巷了，北京最文艺的五道营胡同你值得拥有 </text>
+   </view>
+
+ </view>
+
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="shijin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://n1-q.mafengwo.net/s10/M00/8C/2F/wKgBZ1kQehKAB6Y9AA8oM68AWqg49.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">
+     学习篇|化整为零，扫遍京城胡同</text>
+   </view>
+ </view>
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="qijin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s12/M00/EB/E8/wKgED1uU-QKAZFLlAAmNJa-zl3Y99.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京拍照最美胡同——五道营胡同</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="zhongxibu">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s14/M00/E2/8E/wKgE2l1P5WqAWcsUAAcwNERE9EA631.jpg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">东四胡同博物馆：只打卡、拍照就亏大了！</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="yunju">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://p1-q.mafengwo.net/s13/M00/92/D1/wKgEaVxqI4eANHWeAAMSFLxxRQU48.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">喜欢拍照的注意了，原来胡同这么好拍又好玩的！</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="ganjin">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s11/M00/4A/3D/wKgBEFsCjwmAenN0AA77aFVN5IQ11.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京小众地打卡一我眼中的老北京胡同（东交民巷、五道营）</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="lanman">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://b1-q.mafengwo.net/s14/M00/2B/1D/wKgE2l0GDHKAXTvtAA7cyhj0Hhs937.jpg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">不耐烦的摄像师和橘猫的长尾巴---五道营胡同手机拍照指南</text>
+   </view>
+ </view>
+</view>
+
+
+
+

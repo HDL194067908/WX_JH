@@ -1,0 +1,56 @@
+<!--pages/index/out/courtyard/courtyard.wxml-->
+<view class="box">
+  <view class="title">
+    <text>北京人气胡同四合院酒店</text>
+  </view>
+  <view>
+   <image src="https://i02piccdn.sogoucdn.com/6559e6d404a96ee2"></image>
+  </view>
+  
+  <view>
+    <text>北京涵珍园国际酒店地处京城紫禁城中轴线龙脉一侧，自古以来就是亲王、郡主、贝子贝勒和富豪商贾云集。酒店东临国子监、西缘什刹海、南望紫荆城，北倚钟鼓楼，信步于地安门俯仰即见景山北海的一池三山，是当时烟花织锦绣，莺燕唱生平的皇都内地。院内雕花的门、廊随处可见，在黄昏斑驳的光影映衬下，有恍如隔世的感觉。酒店距离南锣鼓巷地铁站非常近，步行几分钟就能到达。侣松园宾馆：曾经的蒙古亲王府</text>
+  </view>
+  
+  <view>
+    <image src="https://i02piccdn.sogoucdn.com/2f5f84023b78b699"></image>
+  </view>
+  <view>
+    <text>酒店位于南锣鼓巷旁的胡同里，不远处就是南锣鼓巷地铁站。这里曾经是清末蒙古亲王僧格林沁王府的一部分。四合院的房间内古色古香，早餐中西合璧，还提供老北京特色的豆汁和焦圈。阅微庄四合院宾馆：纪晓岚外宅</text>
+  </view>
+
+  <view>
+    <image src="https://i04piccdn.sogoucdn.com/39b2087bb6a74fdd"></image>
+  </view>
+  <view>
+    <text>东四四条内的四合院酒店，清朝大学士纪晓岚的外宅，两进式四合院，明清风格的复古家具，两个小院都是赏景喝茶的好去处。距离酒店不远处，溜溜达达就可以到孚王府。南锣鼓巷贰拾号：同仁堂老宅</text>
+  </view>
+
+  <view>
+    <image src="https://i03piccdn.sogoucdn.com/c8e33fe7c1cc3db8"></image>
+  </view>
+  <view>
+    <text>据酒店的私人管家介绍，这里曾经是同仁堂老宅。酒店有自己的博物馆艺术餐厅，古色古香，还有不少古玩，酒店边上还有一家星巴克。未名四合院酒店：三品武官府邸</text>
+  </view>
+
+  <view>
+    <image src="https://i02piccdn.sogoucdn.com/109c0d311f3dafc9"></image>
+  </view>
+  <view>
+    <text>宝钞胡同内的这家四合院酒店，原本是清朝三品武官任赞的府邸，园里有百岁紫藤，三百岁枣树等。酒店的房间以民族乐器命名，每周都会有民族乐器的表演。从酒店步行约10分钟可以到达鼓楼大街地铁站。六合祥四合院酒店：广济寺旁</text>
+  </view>
+
+  <view>
+    <image src="https://i03piccdn.sogoucdn.com/d786976cb47031ba"></image>
+  </view>
+  <view>
+    <text>小院坐落在广济寺旁的胡同内，能够步行到达故宫神武门等处。小院不算大，但在这里能够感受到老北京人的平常生活，听风看雨，家雀在院中觅食。出了胡同口，走不远就是西四地铁站。金泰四合院容园宾馆：百花深处</text>
+  </view>
+
+  <view>
+    <image src="https://i03piccdn.sogoucdn.com/5e9a518a85aa1e3f"></image>
+  </view>
+  <view>
+    <text>酒店在护国寺小吃街旁的一条胡同内，几步路之外就是“百花深处”胡同。两进式的一个小院，别有洞天，有些大隐隐于市的感觉，梅兰芳大师的故居也在旁边。从酒店出发，几分钟的步行就能到达平安里地铁站。</text>
+  </view>
+  
+</view>

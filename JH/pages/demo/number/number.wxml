@@ -1,0 +1,24 @@
+<!--pages/demo/number/number.wxml-->
+<view class="box">
+
+  <view class="content">
+    <text>请输入你的幸运数字</text>
+  </view>
+</view>
+
+
+  <view class="b">
+   <view class="enter">  <input type="text" id="enter" ></input></view>
+   <view id='icon_sear'> <icon class="weui-icon-search_in-box" type="search" size="20"  ></icon> </view>
+  </view>
+
+
+<view>
+  <view class="content">
+    <text>五道营胡同与你有缘哦！</text>
+  </view>
+</view>
+
+<view class="d">
+<image  src="https://i01piccdn.sogoucdn.com/8b911dfbca9c68e8" style="width:95%;height:100%;" mode="scaleToFill"></image>
+ </view>

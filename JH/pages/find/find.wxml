@@ -1,0 +1,10 @@
+<view id="btn_view">
+  <button class="btn" bindtap="details_view" style="background-image:url(https://i01piccdn.sogoucdn.com/89e0c12612397da7);">德云社女孩的天堂</button>
+  <button class="btn" bindtap="details_view2" style="background-image:url(https://i02piccdn.sogoucdn.com/49a5dd0bcf72e833);">胡同吉尼斯</button>
+  <button class="btn" bindtap="details_view3" style="background-image:url(https://i02piccdn.sogoucdn.com/18c47781b07d9a61);">两个轮子的旅行</button>
+  <button class="btn" bindtap="details_view4" style="background-image:url(https://i02piccdn.sogoucdn.com/1d4d04c68aface55);">瞌睡虫</button>
+  <button class="btn" bindtap="details_view5" style="background-image:url(https://i02piccdn.sogoucdn.com/97fe4ef5aea3cf64);">轻松大片</button>
+  <button class="btn" bindtap="details_view" style="background-image:url(https://i03piccdn.sogoucdn.com/dbb873010d417258);">跟着抖音走</button>
+  <button class="btn" bindtap="details_view7" style="background-image:url(https://i04piccdn.sogoucdn.com/307a27e7cb169545);">京味儿下午茶</button>
+  <button class="btn" bindtap="details_view" style="background-image:url(https://i04piccdn.sogoucdn.com/e060ee20fe85eff7);">萌新一日游</button>
+</view>

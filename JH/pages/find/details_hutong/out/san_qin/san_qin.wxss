@@ -1,0 +1,39 @@
+/* pages/find/details_hutong/out/san_qin/san_qin.wxss */
+.box{
+  margin: 20rpx;
+}
+.title{
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+.content{
+  padding-bottom: 20rpx;
+  border-bottom-width: 0.1rpx;
+  border-bottom-style: solid;
+  border-bottom-color: #f7f2f2;
+
+}
+.ins{
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+
+}
+.ins_t{
+  font-weight: 599;
+}
+.box_img{
+  border-top-width: 0.1rpx;
+  border-top-style: solid;
+  border-top-color: #f7f2f2;
+  padding-top: 20rpx;
+}
+.img_cont{
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+
+}
+image{
+  margin: 5rpx;
+  
+}

@@ -1,0 +1,17 @@
+<!--pages/find/details_view2/suoyi/suoyi.wxml-->
+<view id='box'>
+<view class="title"> 
+    <text>蓑衣胡同</text>
+  </view>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/0488f97bc3024a119284c4cfc188699b.jpeg"></image>
+  蓑衣胡同东起南锣鼓巷，南止福祥胡同，北邻雨儿胡同，全长295米，宽3米。明代属靖恭坊，称“裟衣寺胡同”。清代属镶黄旗驻地，改为“蓑衣胡同”，末代皇帝溥仪的胞弟，现代书画家爱新觉罗 溥任先生曾在胡同内2号院居住。胡同内现多为民居，生活气息浓厚，老北京的胡同氛围，加上新北京的建设，一览无遗，摄影：宣小胖胖
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/25b524aef3814a849ba7ba13ac20de22.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/d8b6c6101e98485b9b54f5e8379e8bb6.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/6243cb09d9094bab8e376135b3f3b65c.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/1739ade644584003b49b72f2456f28b9.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/db5de7ae89194280a0108727806468f4.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/751582a008df4b299faa053c9eccb1ed.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/ecdaa3a730c84bd4bb4d3f9eb9c7f127.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/9348be80e1dc43f581ffa767c4b0cace.jpeg"></image>
+<image src="http://5b0988e595225.cdn.sohucs.com/images/20180323/a3e6eca83ee047c3b6c7323eac01bc21.jpeg"></image>
+</view>

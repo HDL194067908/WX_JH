@@ -1,0 +1,16 @@
+<!--pages/find/details_view2/yunju/yunju.wxml-->
+<view id = 'box'>
+  <view class="title"> 
+    <text>云居胡同</text>
+  </view>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/c0d49979cb9d423d94a7e81686856261.jpeg"></image>
+  云居胡同位于前门大街西侧，东起前门大街，西至煤市街。胡同长约279.2米，明《京师五城坊巷胡同集》载：“云居寺属正西坊”。清《光绪顺天府志》：”云居寺胡同有云居寺。”《燕都丛考》：“再南曰云居寺胡同。”云集寺在巷内旧门牌6号院，今19号院，现已废除，改作民居。1965年北京市整顿街巷名称时改为云居胡同。摄影：宣小胖胖
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/ce893fed22dd4a01874e6000a9388545.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/f0a220402163490c95dc5da5e7172883.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/3a636e554b6f4fe990b3635f13fd3516.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/5f403ec6139c4b9b8ba4918a6b43c1b0.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/2c50da75a4514d6096511734dc302dc9.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/fa08d1f428df4bd1887892f8e8cf8320.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191122/f2af831abd584661aec3ae1653f08d28.jpeg"></image>
+</view>
+

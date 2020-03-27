@@ -1,0 +1,98 @@
+<!--pages/find/details_view/details_view.wxml-->
+<view>
+  <view class='Hutong' bindtap="hutong">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://i02piccdn.sogoucdn.com/c1740cdfb8f64ee3' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">三庆园：一家以京剧演出为主的老戏园子...</text>
+   </view>
+ </view>
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="gl">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://5b0988e595225.cdn.sohucs.com/images/20190418/ccff2e6f0da64f24bda40c0647b2f09d.jpeg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">
+鼓楼西剧场，因坐落于北京文艺气息浓重的鼓楼地区而得...</text>
+   </view>
+ </view>
+</view>
+
+
+<view>
+  <view class='Hutong' bindtap="gd">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=b320a9d839dbb6fd215be2243925aba6/a8773912b31bb0511ae3ae0b367adab44bede0ca.jpg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">“广德楼戏园”位于前门外大街大栅栏街39号，大约兴建...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="gdg">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='http://www.tourbjxch.com.cn/upload/201809/10/201809101332110458.jpg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">“圣地巡游”是从日本漂洋过海而来的词语和概念，意指动漫...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="hg">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1758447002,997665791&fm=173&app=25&f=JPEG?w=640&h=426&s=863AD5A30C1287ED1605BCA003001000' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">北京湖广会馆始建于明朝万历年间，位于北京市宣武区骡马市大街东口南侧，始为张居捐私...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="ls">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=72b642b6a6d3fd1f3209a538004f25ce/aa18972bd40735fa16f09f2190510fb30f240822.jpg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">提起“老舍茶馆”，不但在京城妇孺皆知，就是在外埠，甚至在...</text>
+   </view>
+ </view>
+</view>
+
+<view>
+  <view class='Hutong' bindtap="tq">
+
+   <view style="background-color:#a1a1a1;width:40%;height:250rpx;">
+     <image src='https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d202e33d213fb80e08d166d506d02ffb/6d81800a19d8bc3e62dee9c6828ba61ea9d345ec.jpg' style="width:100%;height:100%;" mode="scaleToFill"></image>
+   </view>
+
+   <view class="title">
+     <text class="content">在剧场的前面，一个占地 2000 多平方米的文化广场正在建设中，形成了京城...</text>
+   </view>
+ </view>
+</view>
+
+
+
+

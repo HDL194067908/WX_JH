@@ -1,0 +1,26 @@
+<!--pages/my/my.wxml-->
+
+<view class="box">
+  <view class="userinfo">
+    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  </view>
+  <view class="nav"></view>
+  <view class="operation" bindtap="collection_view">
+    <icon class="iconfont icon-fenleiorguangchangorqita"></icon>
+    <text id="text">收藏</text>
+    <text id="xie">></text>
+  </view>
+  <view class="nav"></view>
+  <view class="operation">
+    <icon class="iconfont icon-dianhua"></icon>
+    <text id="text">电话</text>
+    <text id="xie">></text>
+  </view>
+
+  <view class="operation">
+    <icon class="iconfont icon-shezhi"></icon>
+    <text id="text">设置</text>
+    <text id="xie">></text>
+  </view>
+</view>

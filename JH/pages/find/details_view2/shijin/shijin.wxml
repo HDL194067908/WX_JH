@@ -1,0 +1,15 @@
+<!--pages/find/details_view2/shijin/shijin.wxml-->
+<view id = 'box'>
+  <view class="title"> 
+    <text>湿井胡同</text>
+  </view>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/cfd55e0b2a6747c3a0882c1ac7a0fbab.jpeg"></image>
+  湿井胡同，位于前门大街西侧，明时称井儿胡同，属正西坊。清时改称湿井胡同，巷名沿用至今。巷内有真武庙，庙前有一井，井台附近地面长期潮湿，故称湿井胡同，目前统计住户数量只有8户。摄影：宣小胖胖
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/35e38a587c824bc68307b9b9ba431da3.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/2a930ca2a5214cab8f104242babcb5b8.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/5c1eb322e9cb4144a3f3bcf511e46012.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/9ac7f435325c46bbb666ef1ae552dfc3.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/cd90ead8b87240e3b67fe79178e5d220.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/3f31214e102c43a590db59d0be058d61.jpeg"></image>
+  <image src="https://5b0988e595225.cdn.sohucs.com/images/20191119/f9403c91d53f4347a78b40027ab86e95.jpeg"></image>
+</view>

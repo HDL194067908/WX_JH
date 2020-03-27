@@ -1,0 +1,47 @@
+<!--pages/find/details_hutong/out/san_qin/san_qin.wxml-->
+<view class="box">
+  <view class="title"> 
+    <text>三庆园</text>
+  </view>
+   
+  <view class="content">
+    <text>北京德云社三庆园，又名“三庆戏院”，位于前门外大栅栏街18号，是一家以京剧演出为主的老戏园子。据1842年版《梦华琐簿》记述“今日三庆园,乾隆年间宴乐居也。”四大徽班之一的三庆班将此作为首选的主要场所，(1796)更名为三庆园。名家荟萃，生意兴旺，与广德楼、广和楼、庆乐园、同乐轩、庆和园、中和园一同被誉为“京城七大戏楼”， 距今已有220年历史，曾见证了京剧从萌芽、形成、成熟到高峰的全过程。现在则是德云社的一个演出场所，德云社的演员在三庆园剧场演出。</text>
+  </view>
+
+  <view class="ins">
+    <text class="ins_t">用时参考：</text>
+    <text> 1-3小时</text>
+  </view>
+
+  <view class="ins">
+    <text class="ins_t">交通：</text>
+    <text>公车：乘坐公车特11路、622路到前门站下车，步行300米到达</text>
+  </view>
+
+  <view class="ins">
+   <text class="ins_t">门票：</text>
+    <text>门票：北京德云社相声大会三庆园店（前区座位票） 120元/人</text>
+  </view>
+
+  <view class="ins">
+    <text class="ins_t">开放时间：</text>
+    <text>周二-周日：下午场14:00-16:00，晚场19:00-21:00；周一不开放。</text>
+  </view>
+
+  <view class="ins">
+    <text class="ins_t">位置：</text>
+    <text>北京市西城区大栅栏街道大栅栏食品商场对面</text>
+  </view>
+
+  <view class="box_img">
+    <view class="img_cont">
+      <text class="ins_t">图片介绍：</text>
+    </view>
+    
+    <view>
+      <image src="/tabbar/san_qin1.jpg"></image>
+      
+    </view>
+    
+  </view>
+</view>

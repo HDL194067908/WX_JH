@@ -1,0 +1,46 @@
+<!--pages/index/out/celebrity/celebrity.wxml-->
+<view class="box">
+  <view class="title">
+    <text>隐藏在北京胡同里的名人故居，你去过几个？ </text>
+  </view>
+  <view>
+    <text decode="true">&nbsp;&nbsp;&nbsp;在滚滚的历史长河中，北京出现过许多风流人物：政治家、文学家、画家、京剧名角……\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;都曾在这里留下他们生活的印记，这些足迹不仅记录了历史，也见证着这座城市的变迁。\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;老舍故居\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;这里是世界闻名的“丹柿小院”，也是老舍粉丝的朝圣之地。家对于老舍先生来说，一直是种奢侈品。他颠沛流离了大半辈子，都不曾有过自己的家。\n</text>
+    <image src="http://5b0988e595225.cdn.sohucs.com/images/20171210/f822a455430b46f7b9a1703bc2b25aad.jpeg"></image>
+    <text decode="true">\n&nbsp;&nbsp;&nbsp;在美国的四年里他对家的渴望达到了顶峰，如他在信中说的那样：“有家难回，像个丧家犬。”1949年底，老舍先生终于回到了故乡北京，成为新中国自己掏钱买房的第一位作家。\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;地址：东城区灯市口西街丰富胡同19号\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;价格：免费\n\n\n</text>
+  </view>
+
+  <view>
+    <text decode="true">&nbsp;&nbsp;&nbsp;鲁迅先生的故居\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;鲁迅先生的故居不算大，分为小型纪念馆和生活区。走过售票处，一个四方院映入眼帘，正中间便是鲁迅纪念馆，这位文学巨匠的一生正可以在这座大房子里略读一遍，其中有我们熟知的他的“弃医从文”，以及我们并不熟悉的他的文学之外的才华、他和家人的故事，甚至是在弥留之际的真实细节。\n</text>
+    <image src="http://5b0988e595225.cdn.sohucs.com/images/20171210/d0525ee8ab524f9ebc7165fd3032b19e.jpeg"></image>
+    <text decode="true">\n&nbsp;&nbsp;&nbsp;那些曾在书本里出现的熟悉的文章，在纪念馆里都能见到真迹书稿。我们所熟知的闰土，他的原型是什么样子，鲁迅小时候看的小人书，都能勾起我们读书时的记忆。\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;地址：西城区阜成门内宫门口二条19号\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;价格：5元/人\n\n\n</text>
+  </view>
+
+  <view>
+    <text decode="true">&nbsp;&nbsp;&nbsp;郭沫若故居\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;安静的什刹海，风景优美，这里坐拥诸多名人故居，位于前海西沿恭王府对面的郭沫若故居独树一帜。这是一座大型四合院，格局极为讲究。大门内有一座树木点缀的土丘，二门内的5间北房分别为工作室、会客厅、卧室和两个厢房。\n</text>
+    <image src="http://5b0988e595225.cdn.sohucs.com/images/20171210/39ccae9a822148e385584338fe1d046f.jpeg"></image>
+    <text decode="true">\n&nbsp;&nbsp;&nbsp;在这个清静的空间里，郭沫若度过了他人生中的最后15年，院内有郭沫若夫妇亲手栽种的银杏、牡丹，让后人看来颇有感触。\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;地址：西城区前海西街18号\n</text>
+    <text decode="true">&nbsp;&nbsp;&nbsp;价格：20元/人 \n\n\n</text>
+    
+  </view>
+
+  <view>
+   <text decode="true">&nbsp;&nbsp;&nbsp;梅兰芳纪念馆\n</text>
+   <text decode="true">&nbsp;&nbsp;&nbsp;从大门进入，迎面是青砖灰瓦的影壁，影壁前面安放着梅兰芳先生的半身塑像。绕过影壁就可看到精致的院落，如此安静闲适的环境，令人无比羡慕，梅兰芳生前最后10年就是在这里度过的。大家似乎怕吵到老人家这份宁静，没有大声喧哗者，都是一边赞叹一边欣赏着他的故居。\n</text>
+   <image src="http://5b0988e595225.cdn.sohucs.com/images/20171210/03fb61f26d59456f99e0bcdb37d8d791.jpeg"></image>
+   <text decode="true">\n&nbsp;&nbsp;&nbsp;“第一陈列室”通过图片等资料介绍了梅兰芳一生的主要艺术生活和社会活动；在“第二陈列室”可看到梅兰芳使用过的部分戏装、道具及一些馆藏资料。而“第三陈列室”陈列着国内外友人赠予梅兰芳的书法、绘画和其他纪念品。\n</text>
+   <text decode="true">&nbsp;&nbsp;&nbsp;地址：西城区护国寺街9号\n</text>
+   <text decode="true">&nbsp;&nbsp;&nbsp;价格：10元/人\n</text>
+ 
+  </view>
+
+</view>

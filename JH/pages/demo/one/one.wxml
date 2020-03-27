@@ -1,0 +1,35 @@
+<!--pages/demo/one/one.wxml-->
+<view class="a">
+  <text class="title">北京胡同咖啡馆</text>
+  <view>
+    <image src='https://pic4.zhimg.com/80/v2-cb68eb98d782a243fc424935b09161d3_hd.jpg' style="width:100%;height:500rpx;"></image>
+  </view>
+  <text>胡同，可谓是很多人心中北京民间建筑的代表，“胡同文化”甚至成为了北京古都文化的代名词。连外地游客都知道，想体验最正宗的北京，咱得往胡同里钻。
+
+最早的胡同始于元代，从朝阳门内大街到东四区域，虽距离闹市区近，但凡是步入胡同，便发现这里瞬间没了那些车水马龙，仿若是一个闹中取静的结界，躲避尘世喧嚣。
+姜文的电影《邪不压正》里，有很多“飞檐走壁”镜头是在胡同顶上拍摄的，而现在更多的北京精品咖啡馆为了让爱好者们拥有自在舒适的体验，胡同成为了他们的热门选址。
+
+你们难道不想去胡同里喝咖啡的同时get“彭于晏老公”同款屋顶美照吗？！作为人民的“排雷工兵”，刘排长我这周去了两家大肆宣传可以“上房揭瓦”的咖啡馆，给大家说叨说叨，排个雷，做到去之前心里有AC数。</text>
+  <view>
+    <image src='https://pic3.zhimg.com/80/v2-10036ff15917c91a1333be38699c6d46_hd.jpg' style="width:100%;height:500rpx;"></image>
+  </view>
+  <text class="title">糖房咖啡（南锣店）</text>
+  <text> 
+  这家店是排长我被大众点评强势推荐的，商家页面上的那些小照片呀，拍得属实好看，光线也好，构图也好，古典建筑与现代简洁内饰的完美融合也好，都让我深深觉着，得去！说冲就冲！</text>
+  <view>
+    <image src='https://pic2.zhimg.com/80/v2-e424ee363ee57c7c8091a3253f481b11_hd.jpg' style="width:100%;height:500rpx;"></image>
+  </view>
+  <view>
+    <image src='https://pic2.zhimg.com/80/v2-52b46ea9f355acbfd2990e339b358cb1_hd.jpg' style="width:100%;height:500rpx;"></image>
+  </view>
+<text class="title">Berry Beans</text>
+<text>
+跟糖房一样，Berry Beans也是个网红，之前在咖啡展上喝了他们意式豆子，感觉一般，很普通的深烘意式，当时一杯拿铁只喝了1/3，也就把这颗草给拔掉了。
+
+但是如果说“上房揭瓦”的话，这家肯定绕不过，因为只有这家是可以爬上屋顶的那种，也得去看看！
+</text>
+
+<view>
+    <image src='https://pic1.zhimg.com/80/v2-d6756087520c1c46bc809ed5eca64170_hd.jpg' style="width:100%;height:500rpx;"></image>
+  </view>
+</view>
